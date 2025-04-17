@@ -3499,7 +3499,11 @@ header .main-navbar {
         display: block;
         color: #232323;
         font-size: 18px;
+<<<<<<< HEAD
         font-weight: 600;
+=======
+        font-weight: 500;
+>>>>>>> edit slider
         text-decoration: none;
         text-transform: uppercase;
         padding: 0;
@@ -4131,6 +4135,7 @@ header .main-navbar {
   overflow: hidden; }
   @media (max-width: 1660px) {
     .poster-section {
+<<<<<<< HEAD
       height: 750px; } }
   @media (max-width: 1199px) {
     .poster-section {
@@ -4141,6 +4146,18 @@ header .main-navbar {
   @media (max-width: 360px) {
     .poster-section {
       height: 350px; } }
+=======
+      height: 700px; } }
+  @media (max-width: 1199px) {
+    .poster-section {
+      height: 550px; } }
+  @media (max-width: 991px) {
+    .poster-section {
+      height: 400px; } }
+  @media (max-width: 360px) {
+    .poster-section {
+      height: 300px; } }
+>>>>>>> edit slider
   .poster-section .prev {
     right: 11% !important; }
     @media (max-width: 1366px) {
@@ -4213,6 +4230,7 @@ header .main-navbar {
       height: 800px; }
       @media (max-width: 1660px) {
         .poster-section .poster-image img {
+<<<<<<< HEAD
           height: 850px; } }
       @media (max-width: 1199px) {
         .poster-section .poster-image img {
@@ -4221,11 +4239,25 @@ header .main-navbar {
         .poster-section .poster-image img {
           margin: 5% 130px 0 auto;
           height: 470px; }
+=======
+          height: 680px; } }
+      @media (max-width: 1199px) {
+        .poster-section .poster-image img {
+          height: 580px; } }
+      @media (max-width: 991px) {
+        .poster-section .poster-image img {
+          margin: 5% 130px 0 auto;
+          height: 450px; }
+>>>>>>> edit slider
           [dir="rtl"] .poster-section .poster-image img {
             margin: 5% auto 0 130px; } }
       @media (max-width: 767px) {
         .poster-section .poster-image img {
+<<<<<<< HEAD
           height: 440px; } }
+=======
+          height: 420px; } }
+>>>>>>> edit slider
       @media (max-width: 575px) {
         .poster-section .poster-image img {
           display: block;
@@ -4238,7 +4270,11 @@ header .main-navbar {
             margin: 5% auto; } }
   .poster-section .slider-nav {
     position: absolute;
+<<<<<<< HEAD
     top: 50%;
+=======
+    top: 40%;
+>>>>>>> edit slider
     -webkit-transform: translateY(-50%);
             transform: translateY(-50%);
     right: 100px;
@@ -10176,7 +10212,12 @@ hr {
   -webkit-box-pack: center;
       -ms-flex-pack: center;
           justify-content: center;
+<<<<<<< HEAD
   height: 100%; }
+=======
+  /* height: 100%;  */
+}
+>>>>>>> edit slider
   .about-details h2 {
     margin-bottom: 10px;
     letter-spacing: 1px;
